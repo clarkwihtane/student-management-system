@@ -1,0 +1,19 @@
+
+.container-fluid {
+    
+    justify-content: center;
+    align-items: center;
+    height: 1000px;
+    width: 1800;
+   
+  }
+  
+  .row{
+    display: flex;
+    justify-content: center;
+    
+    height: 100%;
+    
+  }
+ 
+  
